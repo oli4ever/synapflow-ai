@@ -5,6 +5,9 @@ import Arrow from "../assets/svg/Arrow";
 import { GradientLight } from "./design/Benefits";
 import ClipPath from "../assets/svg/ClipPath";
 
+console.log("First benefit background:", benefits[0].backgroundUrl);
+console.log("Type:", typeof benefits[0].backgroundUrl);
+
 const Benefits = () => {
   return (
     <Section id="features" className="bg-dark-900">
@@ -20,7 +23,7 @@ const Benefits = () => {
             <div
               className="block relative p-0.5 bg-no-repeat bg-[length:100%_100%] md:max-w-[24rem]"
               style={{
-                backgroundImage: `url(${item.backgroundUrl})`,
+                backgroundImage: `url("${item.backgroundUrl}")`,
               }}
               key={item.id}
             >
