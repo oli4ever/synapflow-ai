@@ -19,10 +19,10 @@ SynapFlow AI is a cutting-edge productivity platform that leverages artificial i
 
 ## 🛠 Technologies Used
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)(https://reactjs.org)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)(https://vite.dev/)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)(https://tailwindcss.com/)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)(https://vercel.com/)
 
 ## 🖥 Development Setup (VS Code)
 
@@ -30,9 +30,9 @@ SynapFlow AI is a cutting-edge productivity platform that leverages artificial i
    ```bash
    git clone https://github.com/oli4ever/synapflow-ai.git
    cd synapflow-ai
-   **Installation**
    ```
 
+**Installation**
 Install the project dependencies using npm:
 
 ```bash
