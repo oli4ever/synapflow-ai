@@ -134,7 +134,7 @@ export default {
             {}
         },
         ".body-2": {
-          "@apply font-medium text-[0.875rem] leading-6 md:text-base": {}
+          "@apply font-normal text-[0.875rem] leading-6 md:text-base": {}
         },
         ".caption": {
           "@apply text-sm": {}
